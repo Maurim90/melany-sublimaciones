@@ -57,7 +57,9 @@ const ContactSection: React.FC = () => {
                 >
                   <Send size={18} className="mr-2" /> Enviar Mensaje
                 </button>
-              </form>
+              </form
+              action="https://formspree.io/f/mvgawqkq"
+              method="POST">
             </div>
           </div>
           
