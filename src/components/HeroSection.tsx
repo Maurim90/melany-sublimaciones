@@ -45,7 +45,7 @@ const HeroSection: React.FC = () => {
             <div className="relative bg-white p-4 rounded-lg shadow-xl transform rotate-3 max-w-md mx-auto">
               <div className="aspect-square overflow-hidden rounded">
                 <img 
-                  src="https://upnow-prod.ff45e40d1a1c8f7e7de4e976d0c9e555.r2.cloudflarestorage.com/d1d1bhiNCoS4jzCZxf3NotbAroV2/6738614e-98c5-451a-813e-dd50a3e48f94?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cdd12e35bbd220303957dc5603a4cc8e%2F20250510%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250510T130413Z&X-Amz-Expires=43200&X-Amz-Signature=5debc5bb79664461bd4d34cc458478f592ff80519e5fd0b0bf15a080099f4fa2&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22logo%20negro.jpg%22" 
+                  src="https://i.ibb.co/DPrj04NC/logo-negro.jpg"
                   alt="Remera personalizada con diseño colorido" 
                   className="w-full h-full object-cover transition-transform hover:scale-105"
                 />
