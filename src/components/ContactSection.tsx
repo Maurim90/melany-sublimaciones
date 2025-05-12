@@ -101,8 +101,8 @@ const ContactSection: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="text-lg font-semibold text-gray-800">Ubicación</h4>
-                    <p className="text-gray-600">Buenos Aires, Argentina</p>
-                    <p className="text-gray-600 text-sm mt-1">Realizamos envíos a todo el país</p>
+                    <p className="text-gray-600">Moreno, Buenos Aires, Argentina</p>
+                    <p className="text-gray-600 text-sm mt-1">Consulta por envios</p>
                   </div>
                 </div>
                 
