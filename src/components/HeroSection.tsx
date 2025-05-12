@@ -51,7 +51,7 @@ const HeroSection: React.FC = () => {
                 />
               </div>
               <div className="absolute -bottom-4 -right-4 bg-pink-500 text-white px-4 py-2 rounded-full text-sm font-bold shadow-md">
-                ¡Personalízalo!
+                ¡Contactanos!
               </div>
             </div>
             <div className="absolute -bottom-6 -left-6 bg-white p-3 rounded-lg shadow-xl transform -rotate-6 hidden md:block">
