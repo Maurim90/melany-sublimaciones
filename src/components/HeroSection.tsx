@@ -63,7 +63,7 @@ const HeroSection: React.FC = () => {
             </div>
             <div className="absolute -top-10 right-0 bg-white p-2 rounded-lg shadow-xl transform rotate-6 hidden md:block">
               <img 
-                src="https://upnow-prod.ff45e40d1a1c8f7e7de4e976d0c9e555.r2.cloudflarestorage.com/d1d1bhiNCoS4jzCZxf3NotbAroV2/c8b72e99-010f-4959-b3c3-43d146f466c2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cdd12e35bbd220303957dc5603a4cc8e%2F20250510%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250510T130817Z&X-Amz-Expires=43200&X-Amz-Signature=a938470de8817aebcb1c37af85a76c47f2b8e787a4cf4017d4e720dac03324ff&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22cuadro.jpg%22" 
+                src="https://i.ibb.co/LzW1nMkH/taza-4.jpg" 
                 alt="Gorra personalizada" 
                 className="w-20 h-20 object-cover rounded"
               />
