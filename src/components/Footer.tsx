@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
                 <Phone size={24} />
               </a>
               <a 
-                href="mailto:info@melanysublimaciones.com.ar" 
+                href="mailto:daro-umerez@hotmail.com" 
                 className="text-gray-400 hover:text-pink-400 transition-colors"
               >
                 <Mail size={24} />
