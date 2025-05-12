@@ -56,7 +56,7 @@ const HeroSection: React.FC = () => {
             </div>
             <div className="absolute -bottom-6 -left-6 bg-white p-3 rounded-lg shadow-xl transform -rotate-6 hidden md:block">
               <img 
-                src="https://i.ibb.co/LzW1nMkH/taza-4.jpg" 
+                src="https://i.ibb.co/1GXGk0Dh/boca.jpg" 
                 alt="Taza personalizada" 
                 className="w-24 h-24 object-cover rounded"
               />
